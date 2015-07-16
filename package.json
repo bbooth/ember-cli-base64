@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-base64",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adds a base64 polyfill to an ember-cli application",
   "directories": {
     "doc": "doc",
